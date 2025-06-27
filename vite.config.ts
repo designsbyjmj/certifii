@@ -12,5 +12,5 @@ export default defineConfig({
   build: {
     rollupOptions: {
       external: ['/main.tsx']
-    })
+    });
 }
